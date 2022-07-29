@@ -1,0 +1,30 @@
+#a {
+  display: none;
+}
+
+#b {
+  display: none;
+}
+
+tr:hover {
+  cursor: pointer;
+}
+
+td {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+form input {
+  padding: 0 0.5rem;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+textarea {
+  resize: none;
+}
